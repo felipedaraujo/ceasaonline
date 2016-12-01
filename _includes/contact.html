@@ -1,0 +1,29 @@
+
+<section id="contact" class="contact bg-primary">
+    <div class="container">
+        <h2>Curta no Facebook e Instagram</h2>
+        <ul class="list-inline list-social">
+            {% for network in site.social %}
+            <li class="social-{{ network.title }}">
+                <a href="{{ network.url }}"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+</section>
+<footer>
+    <div class="container">
+        <p>&copy; CEASA Online 2016. Desenvolvido por <a target="_blank" rel="nofollow" href="https://www.linkedin.com/in/felipedaraujo">Felipe de Araújo</a>. Todos os direitos reservados.</p>
+        <ul class="list-inline">
+            <li>
+                <a href="#">Privacy</a>
+            </li>
+            <li>
+                <a href="#">Terms</a>
+            </li>
+            <li>
+                <a href="#">FAQ</a>
+            </li>
+        </ul>
+    </div>
+</footer>
