@@ -1,7 +1,7 @@
 # Site settings
 title: CEASA Online
-email:
-description: Cotação dos preços dos produtos vendidos nos Centros de Abastecimento (CEASA) em todo o Brasil
+email: ceasacotacoes@gmail.com
+description: Saiba os melhores preços no atacado da CEASA mais perto de você, em tempo real.
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "http://ceasa.online" # the base hostname & protocol for your site
