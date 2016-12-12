@@ -136,6 +136,8 @@ header {
         margin-top: 0;
         margin-bottom: 30px;
         font-size: 30px; }
+      header .header-content .header-content-inner p {
+        text-align: center; }
       header .header-content .header-content-inner .list-badges {
         margin-bottom: 25px; }
         header .header-content .header-content-inner .list-badges img {
