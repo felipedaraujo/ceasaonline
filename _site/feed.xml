@@ -1,37 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-21T16:46:40-04:00</updated><id>http://localhost:4000/</id><title type="html">CEASA Online</title><subtitle>Saiba os melhores preços no atacado da CEASA mais perto de você, em tempo real.</subtitle><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="http://localhost:4000/jekyll/2016/09/24/man-must-explore/" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2016-09-24T08:00:00-04:00</published><updated>2016-09-24T08:00:00-04:00</updated><id>http://localhost:4000/jekyll/2016/09/24/man-must-explore</id><content type="html" xml:base="http://localhost:4000/jekyll/2016/09/24/man-must-explore/">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
-
-&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
-
-&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
-
-&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
-
-&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
-
-&lt;blockquote&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
-
-&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
-
-&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
-    &lt;img src=&quot;/img/post-sample-image.jpg&quot; class=&quot;img-responsive&quot; alt=&quot;Post Sample Image&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
-
-&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
-
-&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://www.flickr.com/photos/nasacommons/&quot;&gt;NASA on The Commons&lt;/a&gt;.&lt;/p&gt;</content><author><name>Antonio Trento</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry><entry><title type="html">I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.</title><link href="http://localhost:4000/jekyll/2016/09/18/i-believe/" rel="alternate" type="text/html" title="I believe every human has a finite number of heartbeats. I don't intend to waste any of mine." /><published>2016-09-18T08:00:00-04:00</published><updated>2016-09-18T08:00:00-04:00</updated><id>http://localhost:4000/jekyll/2016/09/18/i-believe</id><content type="html" xml:base="http://localhost:4000/jekyll/2016/09/18/i-believe/">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-26T21:39:18-04:00</updated><id>http://localhost:4000/</id><title type="html">CEASA Online</title><subtitle>Saiba os melhores preços no atacado da CEASA mais perto de você, em tempo real.</subtitle><entry><title type="html">Privacy Policy</title><link href="http://localhost:4000/2018/08/26/privacy-policy/" rel="alternate" type="text/html" title="Privacy Policy" /><published>2018-08-26T17:30:00-04:00</published><updated>2018-08-26T17:30:00-04:00</updated><id>http://localhost:4000/2018/08/26/privacy-policy</id><content type="html" xml:base="http://localhost:4000/2018/08/26/privacy-policy/">&lt;h2&gt;Privacy Policy&lt;/h2&gt;
+&lt;p&gt; Felipe de Araujo built the CEASA ONLINE app as a Free app. This SERVICE is provided by Felipe de Araujo at no cost and is intended for use as is.
+                  &lt;/p&gt;
+&lt;p&gt;This page is used to inform visitors regarding my policies with the collection, use, and
+                    disclosure of Personal Information if anyone decided to use my Service.
+                  &lt;/p&gt;
+&lt;p&gt;If you choose to use my Service, then you agree to the collection and use of information in relation
+                    to this policy. The Personal Information that I collect is used for providing and improving the
+                    Service. I will not use or share your information with anyone except as described
+                    in this Privacy Policy.
+                  &lt;/p&gt;
+&lt;p&gt;The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
+                    at CEASA ONLINE unless otherwise defined in this Privacy Policy.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Information Collection and Use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For a better experience, while using our Service, I may require you to provide us with certain
+                    personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+                  &lt;/p&gt;
+&lt;p&gt;The app does use third party services that may collect information used to identify you.&lt;/p&gt;
+&lt;div&gt;&lt;p&gt;Link to privacy policy of third party service providers used by the app&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.google.com/policies/privacy/&quot; target=&quot;_blank&quot;&gt;Google Play Services&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Log Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; I want to inform you that whenever you use my Service, in a case of an
+                    error in the app I collect data and information (through third party products) on your phone
+                    called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
+                    device name, operating system version, the configuration of the app when utilizing my Service,
+                    the time and date of your use of the Service, and other statistics.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cookies&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These
+                    are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+                  &lt;/p&gt;
+&lt;p&gt;This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries
+                    that use “cookies” to collect information and improve their services. You have the option to either
+                    accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to
+                    refuse our cookies, you may not be able to use some portions of this Service.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Service Providers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; I may employ third-party companies and individuals due to the following reasons:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;To facilitate our Service;&lt;/li&gt; &lt;li&gt;To provide the Service on our behalf;&lt;/li&gt; &lt;li&gt;To perform Service-related services; or&lt;/li&gt; &lt;li&gt;To assist us in analyzing how our Service is used.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; I want to inform users of this Service that these third parties have access to your
+                    Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they
+                    are obligated not to disclose or use the information for any other purpose.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; I value your trust in providing us your Personal Information, thus we are striving
+                    to use commercially acceptable means of protecting it. But remember that no method of transmission over
+                    the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee
+                    its absolute security.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links to Other Sites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This Service may contain links to other sites. If you click on a third-party link, you will be directed
+                    to that site. Note that these external sites are not operated by me. Therefore, I strongly
+                    advise you to review the Privacy Policy of these websites. I have no control over
+                    and assume no responsibility for the content, privacy policies, or practices of any third-party sites
+                    or services.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Children’s Privacy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These Services do not address anyone under the age of 13. I do not knowingly collect
+                    personally identifiable information from children under 13. In the case I discover that a child
+                    under 13 has provided me with personal information, I immediately delete this from
+                    our servers. If you are a parent or guardian and you are aware that your child has provided us with personal
+                    information, please contact me so that I will be able to do necessary actions.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changes to This Privacy Policy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; I may update our Privacy Policy from time to time. Thus, you are advised to review
+                    this page periodically for any changes. I will notify you of any changes by posting
+                    the new Privacy Policy on this page. These changes are effective immediately after they are posted on
+                    this page.
+                  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact Us&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
+                    me.
+                  &lt;/p&gt;</content><author><name>Felipe de Araujo</name></author><summary type="html">Privacy Policy Felipe de Araujo built the CEASA ONLINE app as a Free app. This SERVICE is provided by Felipe de Araujo at no cost and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at CEASA ONLINE unless otherwise defined in this Privacy Policy. Information Collection and Use For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app Google Play Services Log Data I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics. Cookies Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. Service Providers I may employ third-party companies and individuals due to the following reasons: To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. Security I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security. Links to Other Sites This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. Children’s Privacy These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions. Changes to This Privacy Policy I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page. Contact Us If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.</summary></entry><entry><title type="html">I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.</title><link href="http://localhost:4000/jekyll/2016/09/18/i-believe/" rel="alternate" type="text/html" title="I believe every human has a finite number of heartbeats. I don't intend to waste any of mine." /><published>2016-09-18T08:00:00-04:00</published><updated>2016-09-18T08:00:00-04:00</updated><id>http://localhost:4000/jekyll/2016/09/18/i-believe</id><content type="html" xml:base="http://localhost:4000/jekyll/2016/09/18/i-believe/">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
 
 &lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
 
